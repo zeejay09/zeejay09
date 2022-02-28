@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeejay09
 - 👀 I’m interested in coding applications.
-- 🌱 Here are technologies, programming languages, and frameworks that I use:
+- 🌱 Here are the technologies, programming languages, and frameworks that I use:
   - Javascript
   - jQuery
   - ReactJS
