@@ -14,7 +14,7 @@
   - Drupal as backend API provider
   - Strapi
   - PHP
-  - Yii
+  - Yii2
   - Laravel
   - Firebase FCM, Realtime Database and Authentication
 <!---
