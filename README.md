@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 ## daily.dev DevCard:
 
-<a href="https://app.daily.dev/zeejay09"><img src="https://api.daily.dev/devcards/c8561b504e634d7486fa83dfba90da20.png?r=d0a" width="400" alt="Jeff Zeejay's Dev Card"/></a>
+<a href="https://app.daily.dev/zeejay09"><img src="https://api.daily.dev/devcards/c8561b504e634d7486fa83dfba90da20.png?r=ioa" width="400" alt="Jeff Zeejay's Dev Card"/></a>
