@@ -3,16 +3,16 @@
 - 🌱 Here are the technologies, programming languages, and frameworks that I use:
   - Javascript
   - jQuery
-  - ReactJS
+  - React
   - Next.js
   - TypeScript
   - Angular
   - Nativescript
   - React Native
   - Ionic
-  - Little bit of Nodejs and Express
-  - Drupal as backend API provider
-  - Strapi
+  - Little bit of Node.js and Express
+  - Little bit of Drupal as backend API provider
+  - Little bit of Strapi
   - PHP
   - Yii2
   - Laravel
