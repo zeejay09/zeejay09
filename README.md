@@ -10,7 +10,8 @@
   - Nativescript
   - React Native
   - Ionic
-  - Little bit of Node.js and Express
+  - Node.js with Express
+  - Little bit of NestJS
   - Little bit of Drupal as backend API provider
   - Little bit of Strapi
   - PHP
