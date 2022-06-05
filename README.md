@@ -85,7 +85,6 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -95,16 +94,9 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeejay09&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
-
-<br/>  
-
-<br/>  
+</td></tr></table> 
 
 <br />
-
 
 <!---
 zeejay09/zeejay09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
