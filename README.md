@@ -86,7 +86,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zeejay09&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -98,11 +98,16 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 
 <br />
 
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeejay09&" alt="zeejay09" /></div>
+
+<br />
+
 <!---
 zeejay09/zeejay09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ## daily.dev DevCard:
 
+<div align="center">
 <a href="https://app.daily.dev/zeejay09"><img src="https://api.daily.dev/devcards/c8561b504e634d7486fa83dfba90da20.png?r=ioa" width="400" alt="Jeff Zeejay's Dev Card"/></a>
+</div>
