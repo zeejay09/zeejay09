@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeff Zeejay Belamide</h1>
 <h3 align="center">A passionate full stack developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeejay09&label=Profile%20views&color=0e75b6&style=flat" alt="zeejay09" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeejay09" alt="zeejay09" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
