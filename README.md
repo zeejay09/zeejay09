@@ -35,7 +35,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ I am currently learning at the same time sharpening my React Native skill.   
 
 
 </td><td valign="top" width="50%">
