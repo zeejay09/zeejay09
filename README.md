@@ -35,7 +35,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ I am currently learning at the same time sharpening my React Native skill.   
+- ⚡ Fun fact: My hobby is playing Badminton and building Gunpla Kits.   
 
 
 </td><td valign="top" width="50%">
