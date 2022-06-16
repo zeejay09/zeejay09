@@ -87,7 +87,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 
 ## Github Stats
 <!-- <table width="100%"><tr><td valign="top" width="50%"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=zeejay09&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeejay09&show_icons=true&count_private=true&hide_border=true" align="center" alt="zeejay09" />
 <!-- </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeejay09&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>  -->
