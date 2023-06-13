@@ -38,7 +38,8 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 - ⚡ Fun fact: My hobby is playing Badminton and building Gunpla Kits.   
 
 
-<!-- </td><td valign="top" width="50%">
+</td>
+<!-- <td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
