@@ -23,7 +23,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 <br/>  
 
 
-## Rapidfire  
+<!-- ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working for [Symph](https://www.symph.co/)  
@@ -38,7 +38,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 - ⚡ Fun fact: My hobby is playing Badminton and building Gunpla Kits.   
 
 
-</td>
+</td> -->
 <!-- <td valign="top" width="50%">
 
 <div align="center">
@@ -46,7 +46,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 <!-- </div>   -->
 
 
-</td></tr></table>  
+<!-- </td></tr></table>   -->
 
 <br/>  
 
