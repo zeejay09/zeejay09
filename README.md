@@ -43,7 +43,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
-</div>  
+<!-- </div>   -->
 
 
 </td></tr></table>  
