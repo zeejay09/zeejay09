@@ -24,7 +24,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 
 
 ## Rapidfire  
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working for [Symph](https://www.symph.co/)  
   
