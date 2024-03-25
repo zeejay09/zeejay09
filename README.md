@@ -15,7 +15,7 @@
 
 
 ### Nice meeting you!  
-I’m a Full Stack Developer that has over 4 years of experience in building applications for the various clients I have worked for. I started developing websites for small businesses here in our local area. Now, I am employed full-time and build meaningful and useful websites/applications for our company's clients.
+I’m a Full Stack Developer that has over 5+ years of experience in building applications for the various clients I have worked for. I started developing websites for small businesses here in our local area. Now, I am employed full-time and build meaningful and useful websites/applications for our company's clients.
 
 As a Full Stack Developer, I am actively developing the frontend and backend of the applications of our client's projects.  
   
