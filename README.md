@@ -99,7 +99,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 <br />
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zeejay09" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeejay09" alt="GitHub Streak" />
 </div>
 
 <br />
