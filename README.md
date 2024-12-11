@@ -101,10 +101,6 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 <div align="center">
 <img src="https://github-readme-streak-stats-zeejay09.vercel.app?user=zeejay09&theme=dark" alt="GitHub Streak" />
 </div>
-<br />
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zeejay09&rank_icon=percentile&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Readme Stat" />
-</div>
 
 <br />
 
