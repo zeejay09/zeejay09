@@ -103,7 +103,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 </div>
 <br />
 <div align="center">
-<img src="(https://github-readme-stats-zeejay09.vercel.app/api?username=zeejay09" alt="GitHub Readme Stat" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeejay09" alt="GitHub Readme Stat" />
 </div>
 
 <br />
