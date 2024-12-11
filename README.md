@@ -99,7 +99,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 <br />
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats-gamma-five.vercel.app?user=zeejay09&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-five.vercel.app?user=zeejay09&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 <br />
