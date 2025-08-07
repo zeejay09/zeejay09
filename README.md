@@ -91,7 +91,7 @@ As a Full Stack Developer, I am actively developing the frontend and backend of 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-zeejay09.vercel.app?user=zeejay09" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zeejay09" alt="GitHub Streak" />
 </div>
 
 <br />
